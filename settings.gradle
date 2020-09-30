@@ -19,7 +19,7 @@ include 'type-mapping:wsdl2java'
 include 'wsdl-styles:document-literal'
 include 'wsdl-styles:document-literal-wrapped'
 include 'wsdl-styles:rpc-literal'
-
+include 'ws-client:double-style'
 include 'ws-client:plain-style'
 include 'ws-client:wrapper-style'
 include 'ws-client:dynamic-style'
